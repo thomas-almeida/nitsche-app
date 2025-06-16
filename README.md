@@ -1,1 +1,0 @@
-# nitsche-app
